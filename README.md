@@ -1,1047 +1,1525 @@
 
  
 
+
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 03[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1,A&E
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1120
-#EXTINF:-1,A&E FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52645
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5078
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/9609
-#EXTINF:-1,AMC FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52646
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/15406
-#EXTINF:-1,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1719
-#EXTINF:-1,ANIMAL PLANET FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68282
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52581
-#EXTINF:-1,APARECIDA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/916
-#EXTINF:-1,ARTE 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52237
-#EXTINF:-1,ARTE 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68283
-#EXTINF:-1,ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58680
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1712
-#EXTINF:-1,AXN FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58681
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1114
-#EXTINF:-1,BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52235
-#EXTINF:-1,BABY TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68284
-#EXTINF:-1,BABY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58682
-#EXTINF:-1,BAND NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1107
-#EXTINF:-1,BAND NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17951
-#EXTINF:-1,BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58683
-#EXTINF:-1,BAND SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1713
-#EXTINF:-1,BAND SP FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68285
-#EXTINF:-1,BAND SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52595
-#EXTINF:-1,BAND SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1106
-#EXTINF:-1,BAND SPORTS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52609
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2407
-#EXTINF:-1,BBB 01: A Casa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74512
-#EXTINF:-1,BBB 01: A Casa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74513
-#EXTINF:-1,BBB 02: Confessionário HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74514
-#EXTINF:-1,BBB 02: Confessionário SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74734
-#EXTINF:-1,BBB 03: Quarto Cordel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74736
-#EXTINF:-1,BBB 03: Quarto Cordel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74735
-#EXTINF:-1,BBB 04: Quarto Colorido HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74737
-#EXTINF:-1,BBB 04: Quarto Colorido SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74738
-#EXTINF:-1,BBB 05: Chuveiro HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74740
-#EXTINF:-1,BBB 05: Chuveiro SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74739
-#EXTINF:-1,BBB 06: Cozinha Vip-Xepa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74741
-#EXTINF:-1,BBB 06: Cozinha Vip-Xepa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74742
-#EXTINF:-1,BBB 07: Sala de Estar HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74743
-#EXTINF:-1,BBB 07: Sala de Estar SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74744
-#EXTINF:-1,BBB 08: Piscina HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74745
-#EXTINF:-1,BBB 08: Piscina SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74746
-#EXTINF:-1,BBB 09: Jardim HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74747
-#EXTINF:-1,BBB 09: Jardim SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74748
-#EXTINF:-1,BBB 10: Academia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74750
-#EXTINF:-1,BBB 10: Academia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74749
-#EXTINF:-1,BBB 11: A Casa 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74751
-#EXTINF:-1,BBB 11: A Casa 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74752
-#EXTINF:-1,BIS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52647
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1104
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/24187
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1102
-#EXTINF:-1,BOOMERANG FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58684
-#EXTINF:-1,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20801
-#EXTINF:-1,CANAL BRASIL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68279
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5079
-#EXTINF:-1,CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/24745
-#EXTINF:-1,CANAL DO BOI
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2382
-#EXTINF:-1,CANCAO NOVA FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1220
-#EXTINF:-1,CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1095
-#EXTINF:-1,CARTOON NETWORK FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58685
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/43516
-#EXTINF:-1,CHEF TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68288
-#EXTINF:-1,CHEF TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68286
-#EXTINF:-1,CHEF TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68287
-#EXTINF:-1,CINEMAX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2483
-#EXTINF:-1,CINEMAX FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52649
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5080
-#EXTINF:-1,CNN BRASIL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68278
-#EXTINF:-1,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/61949
-#EXTINF:-1,CNN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/61948
-#EXTINF:-1,CNN ESPANHOL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68292
-#EXTINF:-1,CNN ESPANHOL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68290
-#EXTINF:-1,CNN ESPANHOL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68291
-#EXTINF:-1,CNN INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68295
-#EXTINF:-1,CNN INTERNACIONAL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68293
-#EXTINF:-1,CNN INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68294
-#EXTINF:-1,COMBATE FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52650
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1088
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22442
-#EXTINF:-1,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52240
-#EXTINF:-1,COMEDY CENTRAL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58686
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58687
-#EXTINF:-1,CONMEBOL 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73394
-#EXTINF:-1,CONMEBOL 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72741
-#EXTINF:-1,CONMEBOL 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73395
-#EXTINF:-1,CONMEBOL 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72742
-#EXTINF:-1,CONMEBOL 3 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72745
-#EXTINF:-1,CONMEBOL 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74426
-#EXTINF:-1,CONMEBOL 4 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72746
-#EXTINF:-1,CULTURA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52238
-#EXTINF:-1,CURTA!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52241
-#EXTINF:-1,CURTA! FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68300
-#EXTINF:-1,CURTA! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58688
-#EXTINF:-1,DAZN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73570
-#EXTINF:-1,DAZN 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73572
-#EXTINF:-1,DAZN 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73573
-#EXTINF:-1,DAZN 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73574
-#EXTINF:-1,DAZN FULL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73571
-#EXTINF:-1,DEUTSCH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/18034
-#EXTINF:-1,DEUTSCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/37776
-#EXTINF:-1,DEUTSCH SD+
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38471
-#EXTINF:-1,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1084
-#EXTINF:-1,DISCOVERY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52605
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2410
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2399
-#EXTINF:-1,DISCOVERY HOME & HEALTH FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52615
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1082
-#EXTINF:-1,DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1080
-#EXTINF:-1,DISCOVERY KIDS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52652
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5081
-#EXTINF:-1,DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20806
-#EXTINF:-1,DISCOVERY SCIENCE FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52653
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/16006
-#EXTINF:-1,DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20807
-#EXTINF:-1,DISCOVERY THEATER FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52610
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2460
-#EXTINF:-1,DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1072
-#EXTINF:-1,DISCOVERY TURBO FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58689
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2411
-#EXTINF:-1,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20808
-#EXTINF:-1,DISCOVERY WORLD FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58690
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2461
-#EXTINF:-1,DISNEY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52654
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38438
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38763
-#EXTINF:-1,DISNEY JR FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52655
-#EXTINF:-1,DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20809
-#EXTINF:-1,DISNEY JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38441
-#EXTINF:-1,DISNEY XD FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58691
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20810
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38440
-#EXTINF:-1,E!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1063
-#EXTINF:-1,E! FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68281
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52246
-#EXTINF:-1,EI PLUS 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/62005
-#EXTINF:-1,EI PLUS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73393
-#EXTINF:-1,EI PLUS 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73152
-#EXTINF:-1,EI PLUS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73153
-#EXTINF:-1,EI PLUS 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73154
-#EXTINF:-1,EI PLUS 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73155
-#EXTINF:-1,EI PLUS 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73156
-#EXTINF:-1,EI PLUS 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73157
-#EXTINF:-1,EI PLUS 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73158
-#EXTINF:-1,EI PLUS 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73396
-#EXTINF:-1,EI PLUS 6
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73159
-#EXTINF:-1,EI PLUS 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73160
-#EXTINF:-1,ESPN 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52657
-#EXTINF:-1,ESPN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1129
-#EXTINF:-1,ESPN 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38387
-#EXTINF:-1,ESPN 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68302
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2394
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38416
-#EXTINF:-1,ESPN BRASIL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58692
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72988
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38415
-#EXTINF:-1,ESPN EXTRA FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52614
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20813
-#EXTINF:-1,ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38417
-#EXTINF:-1,FILM E ARTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68811
-#EXTINF:-1,FISH TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65563
-#EXTINF:-1,FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52245
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52244
-#EXTINF:-1,FLA TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68194
-#EXTINF:-1,FLA TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68329
-#EXTINF:-1,FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1049
-#EXTINF:-1,FOOD NETWORK FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52658
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5084
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1329
-#EXTINF:-1,FOX FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52659
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1047
-#EXTINF:-1,FOX LIFE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1038
-#EXTINF:-1,FOX LIFE FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52596
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1037
-#EXTINF:-1,FOX NEWS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68324
-#EXTINF:-1,FOX NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68326
-#EXTINF:-1,FOX NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68325
-#EXTINF:-1,FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20815
-#EXTINF:-1,FOX PREMIUM 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58693
-#EXTINF:-1,FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2464
-#EXTINF:-1,FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20816
-#EXTINF:-1,FOX PREMIUM 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58694
-#EXTINF:-1,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2465
-#EXTINF:-1,FOX SPORTS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2391
-#EXTINF:-1,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1717
-#EXTINF:-1,FOX SPORTS 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52621
-#EXTINF:-1,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1031
-#EXTINF:-1,FOX SPORTS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52660
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/50188
-#EXTINF:-1,FUTURA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20803
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38484
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1028
-#EXTINF:-1,FX FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52661
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2386
-#EXTINF:-1,Globo Brasília HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17121
-#EXTINF:-1,Globo Brasília SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22363
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60743
-#EXTINF:-1,Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17962
-#EXTINF:-1,Globo EPTV Central HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65145
-#EXTINF:-1,Globo EPTV Central SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/56877
-#EXTINF:-1,Globo EPTV Ribeirão HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65144
-#EXTINF:-1,Globo EPTV Ribeirão SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/48800
-#EXTINF:-1,Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68330
-#EXTINF:-1,Globo EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68331
-#EXTINF:-1,Globo InterTV Cabugi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58135
-#EXTINF:-1,Globo InterTV Cabugi SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58134
-#EXTINF:-1,Globo InterTV dos Vales HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68346
-#EXTINF:-1,Globo InterTV dos Vales SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68347
-#EXTINF:-1,Globo InterTV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68333
-#EXTINF:-1,Globo InterTV Grande Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68332
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17129
-#EXTINF:-1,Globo Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22367
-#EXTINF:-1,GLOBO NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68334
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5085
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/23980
-#EXTINF:-1,Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17130
-#EXTINF:-1,Globo Nordeste SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22371
-#EXTINF:-1,Globo NSC TV Florianópolis HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58118
-#EXTINF:-1,Globo NSC TV Florianópolis SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58117
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58110
-#EXTINF:-1,Globo RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58109
-#EXTINF:-1,Globo Rede Amazônica Boa Vista HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49732
-#EXTINF:-1,Globo Rede Amazônica Boa Vista SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49731
-#EXTINF:-1,Globo Rede Amazônica Macapá HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49729
-#EXTINF:-1,Globo Rede Amazônica Macapá SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49728
-#EXTINF:-1,Globo Rede Amazônica Manaus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38452
-#EXTINF:-1,Globo Rede Amazônica Manaus SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38451
-#EXTINF:-1,Globo Rede Amazônica Porto Velho HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49713
-#EXTINF:-1,Globo Rede Amazônica Porto Velho SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49714
-#EXTINF:-1,Globo Rede Amazônica Rio Branco HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49721
-#EXTINF:-1,Globo Rede Amazônica Rio Branco SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49724
-#EXTINF:-1,Globo Rio de Janeiro FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52618
-#EXTINF:-1,Globo Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1207
-#EXTINF:-1,Globo Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22209
-#EXTINF:-1,Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58113
-#EXTINF:-1,Globo RPC Curitiba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58112
-#EXTINF:-1,Globo São Paulo FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58698
-#EXTINF:-1,Globo São Paulo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17122
-#EXTINF:-1,Globo São Paulo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22359
-#EXTINF:-1,Globo TV Anhanguera Goiânia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49719
-#EXTINF:-1,Globo TV Anhanguera Goiânia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/49718
-#EXTINF:-1,Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58122
-#EXTINF:-1,Globo TV Bahia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58121
-#EXTINF:-1,Globo TV Centro América HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68327
-#EXTINF:-1,Globo TV Centro América SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52683
-#EXTINF:-1,Globo TV Fronteira Paulista HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65147
-#EXTINF:-1,Globo TV Fronteira Paulista SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65146
-#EXTINF:-1,Globo TV Gazeta Vitória HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58131
-#EXTINF:-1,Globo TV Gazeta Vitória SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58130
-#EXTINF:-1,Globo TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58105
-#EXTINF:-1,Globo TV Liberal Belém SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58104
-#EXTINF:-1,Globo TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73815
-#EXTINF:-1,Globo TV Mirante Cocais SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73814
-#EXTINF:-1,Globo TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73813
-#EXTINF:-1,Globo TV Mirante Imperatriz SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73812
-#EXTINF:-1,Globo TV Mirante São Luís HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58140
-#EXTINF:-1,Globo TV Mirante São Luís SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58139
-#EXTINF:-1,Globo TV Morena HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68335
-#EXTINF:-1,Globo TV Morena SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68336
-#EXTINF:-1,Globo TV Rio Sul SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68801
-#EXTINF:-1,Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68799
-#EXTINF:-1,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68798
-#EXTINF:-1,Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58697
-#EXTINF:-1,Globo TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60776
-#EXTINF:-1,Globo TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60775
-#EXTINF:-1,Globo TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60767
-#EXTINF:-1,Globo TV TEM Itapetininga SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60766
-#EXTINF:-1,Globo TV TEM São José do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60761
-#EXTINF:-1,Globo TV TEM São José do Rio Preto SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60760
-#EXTINF:-1,Globo TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60755
-#EXTINF:-1,Globo TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60754
-#EXTINF:-1,Globo TV Tribuna HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60749
-#EXTINF:-1,Globo TV Tribuna SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/60748
-#EXTINF:-1,Globo TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73811
-#EXTINF:-1,Globo TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/73810
-#EXTINF:-1,Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58126
-#EXTINF:-1,Globo TV Verdes Mares SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58125
-#EXTINF:-1,GLOOB FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52662
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5086
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/28406
-#EXTINF:-1,GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/17136
-#EXTINF:-1,GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/23976
-#EXTINF:-1,GNT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52626
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2466
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/24290
-#EXTINF:-1,H2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2486
-#EXTINF:-1,H2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52629
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1021
-#EXTINF:-1,HBO 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52617
-#EXTINF:-1,HBO 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1209
-#EXTINF:-1,HBO 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1020
-#EXTINF:-1,HBO 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52616
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52583
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2489
-#EXTINF:-1,HBO FAMILY FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52627
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2392
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1016
-#EXTINF:-1,HBO MUNDI FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68337
-#EXTINF:-1,HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5089
-#EXTINF:-1,HBO MUNDI SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1007
-#EXTINF:-1,HBO PLUS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68338
-#EXTINF:-1,HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52671
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52672
-#EXTINF:-1,HBO POP FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68339
-#EXTINF:-1,HBO POP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58701
-#EXTINF:-1,HBO POP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1005
-#EXTINF:-1,HBO SIGNATURE FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52628
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1013
-#EXTINF:-1,HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2488
-#EXTINF:-1,HBO XTREME FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58700
-#EXTINF:-1,HBO XTREME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5090
-#EXTINF:-1,HBO XTREME SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1006
-#EXTINF:-1,HGTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68340
-#EXTINF:-1,HGTV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68342
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68341
-#EXTINF:-1,I.SAT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68343
-#EXTINF:-1,I.SAT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68345
-#EXTINF:-1,I.SAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68344
-#EXTINF:-1,INVESTIGACAO DISCOVERY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1011
-#EXTINF:-1,INVESTIGACAO DISCOVERY FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68301
-#EXTINF:-1,INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2469
-#EXTINF:-1,LIFETIME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2492
-#EXTINF:-1,LIFETIME FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68348
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5087
-#EXTINF:-1,Loading HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74313
-#EXTINF:-1,Loading SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/74312
-#EXTINF:-1,MAIS GLOBOSAT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52663
-#EXTINF:-1,MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5088
-#EXTINF:-1,MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/28398
-#EXTINF:-1,MEGAPIX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52585
-#EXTINF:-1,MEGAPIX FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52631
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52584
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5092
-#EXTINF:-1,MTV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58702
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68303
-#EXTINF:-1,MULTISHOW FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52632
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2385
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/24286
-#EXTINF:-1,MUSIC BOX BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52674
-#EXTINF:-1,MUSIC BOX BRASIL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68304
-#EXTINF:-1,MUSIC BOX BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68349
-#EXTINF:-1,NATGEO KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/11965
-#EXTINF:-1,NATGEO KIDS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52668
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/11996
-#EXTINF:-1,NATGEO WILD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/995
-#EXTINF:-1,NATGEO WILD FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52669
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/994
-#EXTINF:-1,NATIONAL GEOGRAPHICS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/991
-#EXTINF:-1,NATIONAL GEOGRAPHICS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68305
-#EXTINF:-1,NATIONAL GEOGRAPHICS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52586
-#EXTINF:-1,NHK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2495
-#EXTINF:-1,NICK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1206
-#EXTINF:-1,NICK FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52670
-#EXTINF:-1,NICK HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5093
-#EXTINF:-1,NICK JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/986
-#EXTINF:-1,NICK JR FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52604
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/16210
-#EXTINF:-1,NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52678
-#EXTINF:-1,OFF FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52633
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2471
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/28420
-#EXTINF:-1,PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/980
-#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52634
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2472
-#EXTINF:-1,PLAY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65150
-#EXTINF:-1,PLAY KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58766
-#EXTINF:-1,PLAY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52679
-#EXTINF:-1,PLAY TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68306
-#EXTINF:-1,PLAY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68307
-#EXTINF:-1,PREMIERE 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58703
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1213
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25254
-#EXTINF:-1,PREMIERE 3 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52603
-#EXTINF:-1,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1214
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25238
-#EXTINF:-1,PREMIERE 4 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52635
-#EXTINF:-1,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1215
-#EXTINF:-1,PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25250
-#EXTINF:-1,PREMIERE 5 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52636
-#EXTINF:-1,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1216
-#EXTINF:-1,PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25242
-#EXTINF:-1,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/16211
-#EXTINF:-1,PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25757
-#EXTINF:-1,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/16213
-#EXTINF:-1,PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/30379
-#EXTINF:-1,PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38359
-#EXTINF:-1,PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38358
-#EXTINF:-1,PREMIERE 9 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/41353
-#EXTINF:-1,PREMIERE 9 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/41351
-#EXTINF:-1,PREMIERE CLUBES FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58704
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1714
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/25246
-#EXTINF:-1,PRIME BOX BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/969
-#EXTINF:-1,PRIME BOX BRASIL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68308
-#EXTINF:-1,PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68309
-#EXTINF:-1,RECORD AM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65149
-#EXTINF:-1,RECORD AM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/65148
-#EXTINF:-1,RECORD BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/29367
-#EXTINF:-1,RECORD BA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38431
-#EXTINF:-1,RECORD DF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/29364
-#EXTINF:-1,RECORD DF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38418
-#EXTINF:-1,RECORD GO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/47529
-#EXTINF:-1,RECORD GO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/47530
-#EXTINF:-1,RECORD MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/29369
-#EXTINF:-1,RECORD MG SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38430
-#EXTINF:-1,RECORD NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68280
-#EXTINF:-1,RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2400
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38443
-#EXTINF:-1,RECORD PA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/47555
-#EXTINF:-1,RECORD PA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/47554
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/29371
-#EXTINF:-1,RECORD RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38419
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/29373
-#EXTINF:-1,RECORD RS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38433
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1210
-#EXTINF:-1,RECORD SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/38429
-#EXTINF:-1,REDE TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/963
-#EXTINF:-1,REDE TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52601
-#EXTINF:-1,REDE TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52587
-#EXTINF:-1,REDE VIDA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2499
-#EXTINF:-1,REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58705
-#EXTINF:-1,RIT TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52680
-#EXTINF:-1,SBT DIFUSORA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/37793
-#EXTINF:-1,SBT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52638
-#EXTINF:-1,SBT GOIAS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72787
-#EXTINF:-1,SBT NORDESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58707
-#EXTINF:-1,SBT RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/72786
-#EXTINF:-1,SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1208
-#EXTINF:-1,SBT SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/955
-#EXTINF:-1,SBT TV CIDADE VERDE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/37796
-#EXTINF:-1,SBT TV JORNAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/37795
-#EXTINF:-1,SONY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1096
-#EXTINF:-1,SONY FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52600
-#EXTINF:-1,SONY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2409
-#EXTINF:-1,SPACE FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68310
-#EXTINF:-1,SPACE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1327
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2501
-#EXTINF:-1,SPORTV 1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58708
-#EXTINF:-1,SPORTV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1203
-#EXTINF:-1,SPORTV 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/47527
-#EXTINF:-1,SPORTV 2 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58709
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2401
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22450
-#EXTINF:-1,SPORTV 3 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58710
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2402
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/22454
-#EXTINF:-1,STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2384
-#EXTINF:-1,STUDIO UNIVERSAL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58711
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5094
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/939
-#EXTINF:-1,SYFY FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58712
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/18087
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/937
-#EXTINF:-1,TBS FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68311
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2473
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52252
-#EXTINF:-1,TCM FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68313
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68314
-#EXTINF:-1,TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52589
-#EXTINF:-1,TELECINE ACTION FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52620
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52588
-#EXTINF:-1,TELECINE CULT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/933
-#EXTINF:-1,TELECINE CULT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68312
-#EXTINF:-1,TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5096
-#EXTINF:-1,TELECINE FUN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/931
-#EXTINF:-1,TELECINE FUN FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58713
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/932
-#EXTINF:-1,TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/929
-#EXTINF:-1,TELECINE PIPOCA FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52623
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/930
-#EXTINF:-1,TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52591
-#EXTINF:-1,TELECINE PREMIUM FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52624
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52590
-#EXTINF:-1,TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/926
-#EXTINF:-1,TELECINE TOUCH FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58714
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/927
-#EXTINF:-1,THE HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/923
-#EXTINF:-1,THE HISTORY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68315
-#EXTINF:-1,THE HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2468
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/922
-#EXTINF:-1,TLC FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52598
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/5097
-#EXTINF:-1,TNT FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52625
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2383
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/921
-#EXTINF:-1,TNT SERIES FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68316
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2474
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/1204
-#EXTINF:-1,TOONCAST
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/50244
-#EXTINF:-1,TOONCAST FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68317
-#EXTINF:-1,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58716
-#EXTINF:-1,TRU TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52686
-#EXTINF:-1,TRU TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68318
-#EXTINF:-1,TRU TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68319
-#EXTINF:-1,TV BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52687
-#EXTINF:-1,TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/11974
-#EXTINF:-1,TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52248
-#EXTINF:-1,TV RA TIM BUM FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68320
-#EXTINF:-1,TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68321
-#EXTINF:-1,TV5 MONDE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68797
-#EXTINF:-1,UNIVERSAL TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/940
-#EXTINF:-1,UNIVERSAL TV FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52642
-#EXTINF:-1,UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2475
-#EXTINF:-1,VASCO TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68431
-#EXTINF:-1,VASCO TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68430
-#EXTINF:-1,VH1 FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/68322
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/58718
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/898
-#EXTINF:-1,VIVA FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52643
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2476
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/23984
-#EXTINF:-1,WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/896
-#EXTINF:-1,WARNER CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52619
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/2478
-#EXTINF:-1,WOOHOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/894
-#EXTINF:-1,WOOHOO FULL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/52597
-#EXTINF:-1,WOOHOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/16214
-#EXTINF:-1,ZOOMOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://list.deeplist.nl:80/z0nghx28g5aj4hbemnsjehecompmenor/hgwx3a6hhasrwxmmvn6tfue8p/20833
-#EXTINF:-1,ZOOMOO HD
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",3 PALAVRINHAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224753
+#EXTINF:-1 tvg-id="" tvg-name="A FEITICEIRA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",A FEITICEIRA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224770
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE FAMILIA 24HS" tvg-logo="" group-title="SERIES 24HRS",A GRANDE FAMILIA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224754
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="FILMES E SERIES",A&E
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224522
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="" group-title="FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224920
+#EXTINF:-1 tvg-id="" tvg-name="A&E H265" tvg-logo="" group-title="FILMES E SERIES",A&E H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224323
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224154
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="DESENHOS 24HRS",ALADIN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224676
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="FILMES E SERIES",AMC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224523
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224909
+#EXTINF:-1 tvg-id="" tvg-name="AMC H265" tvg-logo="" group-title="FILMES E SERIES",AMC H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224324
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224155
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224524
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224873
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET H265" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224325
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224156
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",ARTE 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224945
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224311
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",AS MENINAS SUPERPODEROSAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224677
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="FILMES E SERIES",AXN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224525
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224904
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD LEG" tvg-logo="" group-title="LEGENDADOS",AXN FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224813
+#EXTINF:-1 tvg-id="" tvg-name="AXN H265" tvg-logo="" group-title="FILMES E SERIES",AXN H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224326
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224157
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD LEG" tvg-logo="" group-title="LEGENDADOS",AXN HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224814
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224526
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SANTA CATARINA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224469
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BAHIA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND BAHIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224527
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND BSB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224421
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS FHD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND CAMPINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224519
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224422
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CURITIBA HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND CURITIBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224512
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GOIANIA H265" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND GOIANIA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224412
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GOIANIA HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND GOIANIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224240
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="" group-title="NOTICIAS",BAND NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224529
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="" group-title="NOTICIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224935
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS H265" tvg-logo="" group-title="NOTICIAS",BAND NEWS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224327
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224273
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PARANA" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND PARANA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224473
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ FHD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224420
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224423
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224424
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224425
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224937
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BAND SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224426
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="" group-title="ESPORTES",BAND SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224530
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="" group-title="ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224837
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS H265" tvg-logo="" group-title="ESPORTES",BAND SPORTS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224328
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224158
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="BAND",BANDEIRANTES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224528
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="" group-title="PAY PER VIEW",BBB
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224321
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="" group-title="PAY PER VIEW",BBB 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224785
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="" group-title="PAY PER VIEW",BBB 11
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224786
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2" tvg-logo="" group-title="PAY PER VIEW",BBB 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224777
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021" tvg-logo="" group-title="PAY PER VIEW",BBB 2021
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224318
+#EXTINF:-1 tvg-id="" tvg-name="BBB 3" tvg-logo="" group-title="PAY PER VIEW",BBB 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224778
+#EXTINF:-1 tvg-id="" tvg-name="BBB 4" tvg-logo="" group-title="PAY PER VIEW",BBB 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224779
+#EXTINF:-1 tvg-id="" tvg-name="BBB 5" tvg-logo="" group-title="PAY PER VIEW",BBB 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224780
+#EXTINF:-1 tvg-id="" tvg-name="BBB 6" tvg-logo="" group-title="PAY PER VIEW",BBB 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224781
+#EXTINF:-1 tvg-id="" tvg-name="BBB 7" tvg-logo="" group-title="PAY PER VIEW",BBB 7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224782
+#EXTINF:-1 tvg-id="" tvg-name="BBB 8" tvg-logo="" group-title="PAY PER VIEW",BBB 8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224783
+#EXTINF:-1 tvg-id="" tvg-name="BBB 9" tvg-logo="" group-title="PAY PER VIEW",BBB 9
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224784
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="" group-title="PAY PER VIEW",BBB MOSAICO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224319
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD" tvg-logo="" group-title="NOTICIAS",BBC WORLD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224949
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="" group-title="NOTICIAS",BBC WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224315
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="DESENHOS 24HRS",BEN 10 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224678
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="MUSICAS E VARIEDADES",BIS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224531
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224950
+#EXTINF:-1 tvg-id="" tvg-name="BIS H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",BIS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224329
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224159
+#EXTINF:-1 tvg-id="" tvg-name="BITA E OS ANIMAIS 24HRS" tvg-logo="" group-title="DESENHOS 24HRS",BITA E OS ANIMAIS 24HRS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224765
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",BOB ESPONJA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224679
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="INFANTIL",BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224532
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD" tvg-logo="" group-title="INFANTIL",BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224891
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG H265" tvg-logo="" group-title="INFANTIL",BOOMERANG H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224330
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="INFANTIL",BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224303
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="" group-title="XXX: ADULTOS",BRASILEIRINHAS: A CAMPEA DO ANAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224755
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD 24HS" tvg-logo="" group-title="SERIES 24HRS",BREAKING BAD 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224680
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE" tvg-logo="" group-title="ESPORTES ONDEMAND",CAMPEONATO CATARINENSE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224266
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="" group-title="ESPORTES ONDEMAND",CAMPEONATO CATARINENSE 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224265
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="" group-title="ESPORTES ONDEMAND",CAMPEONATO CATARINENSE 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224267
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 4" tvg-logo="" group-title="ESPORTES ONDEMAND",CAMPEONATO CATARINENSE 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224268
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="" group-title="FILMES E SERIES",CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224533
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD" tvg-logo="" group-title="FILMES E SERIES",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224952
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL H265" tvg-logo="" group-title="FILMES E SERIES",CANAL BRASIL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224331
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="FILMES E SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224316
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224534
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224536
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224503
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES FHD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224501
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",CANCAO NOVA ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224502
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="DESENHOS 24HRS",CAO CORAGEM 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224681
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224537
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224892
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224161
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONNETWORK H265" tvg-logo="" group-title="INFANTIL",CARTOONNETWORK H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224333
+#EXTINF:-1 tvg-id="" tvg-name="CAVERNA DO DRAGÃO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",CAVERNA DO DRAGÃO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224682
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO 24HS" tvg-logo="" group-title="SERIES 24HRS",CHAPOLIN COLORADO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224683
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="" group-title="SERIES 24HRS",CHAVES 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224684
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",CHAVES DESENHO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224685
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1  FHD" tvg-logo="" group-title="FILMES E SERIES",CINE SKY 1  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224772
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 FHD" tvg-logo="" group-title="FILMES E SERIES",CINE SKY 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224773
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3  FHD" tvg-logo="" group-title="FILMES E SERIES",CINE SKY 3  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224774
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 FHD" tvg-logo="" group-title="FILMES E SERIES",CINE SKY 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224775
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 FHD" tvg-logo="" group-title="FILMES E SERIES",CINE SKY 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224776
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="FILMES E SERIES",CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224538
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD" tvg-logo="" group-title="FILMES E SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224910
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX H265" tvg-logo="" group-title="FILMES E SERIES",CINEMAX H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224334
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224162
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="" group-title="NOTICIAS",CNN BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224668
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="" group-title="NOTICIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224419
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="" group-title="NOTICIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224921
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224272
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES" tvg-logo="" group-title="NOTICIAS",CNT ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224497
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES FHD" tvg-logo="" group-title="NOTICIAS",CNT ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224495
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES HD" tvg-logo="" group-title="NOTICIAS",CNT ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224496
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="" group-title="ESPORTES",COMBATE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224539
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="" group-title="ESPORTES",COMBATE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224853
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE H265" tvg-logo="" group-title="ESPORTES",COMBATE H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224335
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="" group-title="ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224163
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224540
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224927
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224336
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224164
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224672
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224675
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 FHD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224297
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224299
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 FHD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224300
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224301
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224673
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224296
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD" tvg-logo="" group-title="ESPORTES ONDEMAND",CONMEBOL TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224298
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224264
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224269
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224270
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224271
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224279
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6" tvg-logo="" group-title="ESPORTES ONDEMAND",COPA DO NORDESTE 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224280
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="" group-title="DESENHOS 24HRS",CORRIDA MALUCA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224771
+#EXTINF:-1 tvg-id="" tvg-name="CURTA!" tvg-logo="" group-title="MUSICAS E VARIEDADES",CURTA!
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224541
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224427
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224428
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224429
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="ESPORTES ONDEMAND",DAZN 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224291
+#EXTINF:-1 tvg-id="" tvg-name="DENIS O PIMENTINHA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DENIS O PIMENTINHA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224686
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DESENHOS BIBLICOS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224687
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS DISNEY 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DESENHOS DISNEY 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224688
+#EXTINF:-1 tvg-id="" tvg-name="DIGIMON 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DIGIMON 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224689
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224542
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224877
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224337
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224165
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224543
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224339
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224167
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HXH FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY HXH FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224876
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224544
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224893
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS H265" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224340
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224168
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224889
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224341
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224169
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224890
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY THEATER H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224342
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224170
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224545
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224887
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224343
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224171
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORD FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224871
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD H265" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORLD H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224344
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224172
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="" group-title="INFANTIL",DISNEY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224546
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224894
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL H265" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224345
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224173
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224547
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224895
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR H265" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224346
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="INFANTIL",DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224174
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTIL",DISNEY XD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224548
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",DOG TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224849
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",DOG TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224320
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DOIS HOMENS E MEIO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224690
+#EXTINF:-1 tvg-id="" tvg-name="DOUG 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DOUG 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224691
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DRAGON BALL 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224692
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DRAGON BALL SUPER 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224693
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="DESENHOS 24HRS",DRAGON BALL Z 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224694
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="MUSICAS E VARIEDADES",E!
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224549
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224933
+#EXTINF:-1 tvg-id="" tvg-name="E! H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",E! H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224347
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224175
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="ESPORTES",ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224553
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="ESPORTES",ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224554
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="" group-title="ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224841
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 H265" tvg-logo="" group-title="ESPORTES",ESPN 2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224350
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224176
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="" group-title="ESPORTES",ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224555
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224838
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL H265" tvg-logo="" group-title="ESPORTES",ESPN BRASIL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224351
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="" group-title="ESPORTES",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224177
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="" group-title="ESPORTES",ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224839
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA H265" tvg-logo="" group-title="ESPORTES",ESPN EXTRA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224348
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="" group-title="ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224179
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224840
+#EXTINF:-1 tvg-id="" tvg-name="ESPN H265" tvg-logo="" group-title="ESPORTES",ESPN H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224349
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224178
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24HS" tvg-logo="" group-title="SERIES 24HRS",EU A PATROA E AS CRIANÇAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224695
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",FASHION TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224943
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",FASHION TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224309
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ART FHD" tvg-logo="" group-title="FILMES E SERIES",FILM & ART FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224924
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ART HD" tvg-logo="" group-title="FILMES E SERIES",FILM & ART HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224306
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="FILMES E SERIES",FILM & ARTS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224556
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="" group-title="MUSICAS E VARIEDADES",FISH TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224557
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",FISH TV H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224352
+#EXTINF:-1 tvg-id="" tvg-name="FOOD  NETWORK FHD" tvg-logo="" group-title="DOCUMENTARIOS",FOOD  NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224932
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="DOCUMENTARIOS",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224558
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK H265" tvg-logo="" group-title="DOCUMENTARIOS",FOOD NETWORK H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224353
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="DOCUMENTARIOS",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224180
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÓMICA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",FORMIGA ATÓMICA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224696
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="FILMES E SERIES",FOX
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224559
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="" group-title="FILMES E SERIES",FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224905
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD LEG" tvg-logo="" group-title="LEGENDADOS",FOX FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224811
+#EXTINF:-1 tvg-id="" tvg-name="FOX H265" tvg-logo="" group-title="FILMES E SERIES",FOX H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224354
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="FILMES E SERIES",FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224181
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD LEG" tvg-logo="" group-title="LEGENDADOS",FOX HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224812
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="FILMES E SERIES",FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224560
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD" tvg-logo="" group-title="FILMES E SERIES",FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224906
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="FILMES E SERIES",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224182
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224907
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD LEG" tvg-logo="" group-title="LEGENDADOS",FOX PREMIUM 1 HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224816
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224908
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 FHD LEG" tvg-logo="" group-title="LEGENDADOS",FOX PREMIUM 2 FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224817
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 H265" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224356
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224184
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD LEG" tvg-logo="" group-title="LEGENDADOS",FOX PREMIUM 2 HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224818
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FHD LEG" tvg-logo="" group-title="LEGENDADOS",FOX PREMIUM FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224815
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM H265" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224355
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM HD" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224183
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="" group-title="ESPORTES",FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224561
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224562
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224842
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 H265" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224358
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="" group-title="ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224185
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD" tvg-logo="" group-title="ESPORTES",FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224843
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS H265" tvg-logo="" group-title="ESPORTES",FOX SPORTS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224357
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="ESPORTES",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224186
+#EXTINF:-1 tvg-id="" tvg-name="FURACAO TV" tvg-logo="" group-title="ESPORTES ONDEMAND",FURACAO TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224294
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL HD" tvg-logo="" group-title="ESPORTES ONDEMAND",FUTEBOL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224295
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",FUTURA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224563
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="FILMES E SERIES",FX
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224564
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="" group-title="FILMES E SERIES",FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224911
+#EXTINF:-1 tvg-id="" tvg-name="FX H265" tvg-logo="" group-title="FILMES E SERIES",FX H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224359
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224187
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",GALINHA PINTADINHA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224697
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD SP" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",GAZETA HD SP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224435
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ANHAGUERA H265" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO ANHAGUERA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224411
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ANHAGUERA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO ANHAGUERA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224239
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224461
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA SUBAE HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BAHIA SUBAE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224462
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAURU" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BAURU
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224653
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELEM" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BELEM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224650
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BELEM HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BELEM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224480
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224565
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA H265" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BRASILIA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224825
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224436
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CABO FRIO HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CABO FRIO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224476
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CAMPINAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224551
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CAMPINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224479
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224478
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CARUARU FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CARUARU FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224322
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CARUARU HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CARUARU HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224823
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAXIAS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CAXIAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224492
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAXIAS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CAXIAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224491
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CUIABA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CUIABA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224647
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CURITIBA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CURITIBA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224619
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224831
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FORTALEZA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO FORTALEZA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224658
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FORTALEZA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO FORTALEZA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224481
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FOZ DO IGUAÇU FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO FOZ DO IGUAÇU FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224507
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FOZ DO IGUAÇU HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO FOZ DO IGUAÇU HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224836
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GOIANIA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO GOIANIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224643
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224439
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MANAUS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MANAUS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224615
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MANAUS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MANAUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224829
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MARANHAO HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MARANHAO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224827
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG H265" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MG H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224826
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MINAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224566
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224830
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO MS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224459
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224567
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224922
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS H265" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224360
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224188
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO NORDESTE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224568
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PARAIBA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PARAIBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224824
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PARANA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PARANA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224472
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PELOTAS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PELOTAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224493
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PELOTAS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PELOTAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224494
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PIAUI HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PIAUI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224822
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PORTO ALEGRE" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO PORTO ALEGRE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224612
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIBEIRAO PRETO" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224552
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RIBEIRAO PRETO H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224485
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIBEIRAO PRETO HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RIBEIRAO PRETO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224835
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIO SUL HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RIO SUL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224828
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RJ
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224569
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224477
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224440
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ SERRANA FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RJ SERRANA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224521
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ SERRANA HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RJ SERRANA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224520
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224443
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SALVADOR  FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SALVADOR  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224510
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SALVADOR HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SALVADOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224511
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SANTOS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SANTOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224656
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SANTOS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SANTOS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224515
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SANTOS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SANTOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224514
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SAO CARLOS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SAO CARLOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224550
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SAO JOSE DO RIO PRETO" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224654
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SAO JOSE DOS CAMPOS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SAO JOSE DOS CAMPOS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224508
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SAO JOSE DOS CAMPOS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SAO JOSE DOS CAMPOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224509
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224441
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SOROCABA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SOROCABA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224655
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224570
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224821
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP H265" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SP H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224820
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224442
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO STA MARIA" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO STA MARIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224869
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SUL DE MINAS FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224486
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SUL DE MINAS HD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224834
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VANGUARDA DOS CAMPOS" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO VANGUARDA DOS CAMPOS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224657
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VITORIA ES" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO VITORIA ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224437
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VITORIA ES FHD" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO VITORIA ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224438
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VITORIA HD ES" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO VITORIA HD ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224483
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT" tvg-logo="" group-title="MUSICAS E VARIEDADES",GLOBOSAT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224582
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",GLOBOSAT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224951
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",GLOBOSAT H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224372
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224189
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="" group-title="INFANTIL",GLOOB
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224571
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB FHD" tvg-logo="" group-title="INFANTIL",GLOOB FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224896
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB H265" tvg-logo="" group-title="INFANTIL",GLOOB H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224361
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="" group-title="INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224190
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FHD" tvg-logo="" group-title="INFANTIL",GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224897
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="" group-title="INFANTIL",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224304
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="MUSICAS E VARIEDADES",GNT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224572
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224931
+#EXTINF:-1 tvg-id="" tvg-name="GNT H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",GNT H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224362
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224191
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL FHD" tvg-logo="" group-title="ESPORTES",GOLF CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224851
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="" group-title="ESPORTES",GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224852
+#EXTINF:-1 tvg-id="" tvg-name="GUARDIÕES DA GALAXIA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",GUARDIÕES DA GALAXIA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224698
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="REDE HBO",HBO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224573
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="REDE HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224862
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224192
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILLY H265" tvg-logo="" group-title="REDE HBO",HBO FAMILLY H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224363
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="REDE HBO",HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224574
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FHD" tvg-logo="" group-title="REDE HBO",HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224864
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="REDE HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224193
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="" group-title="REDE HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224861
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224799
+#EXTINF:-1 tvg-id="" tvg-name="HBO H265" tvg-logo="" group-title="REDE HBO",HBO H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224364
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="REDE HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224194
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224800
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title="REDE HBO",HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224583
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="" group-title="REDE HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224866
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO MUNDI FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224805
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI H265" tvg-logo="" group-title="REDE HBO",HBO MUNDI H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224373
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="" group-title="REDE HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224201
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO MUNDI HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224806
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title="REDE HBO",HBO PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224575
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="" group-title="REDE HBO",HBO PLUS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224863
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO PLUS FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224801
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS H265" tvg-logo="" group-title="REDE HBO",HBO PLUS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224365
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="" group-title="REDE HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224195
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO PLUS HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224802
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="REDE HBO",HBO POP
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224585
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="" group-title="REDE HBO",HBO POP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224868
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO POP FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224807
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP H265" tvg-logo="" group-title="REDE HBO",HBO POP H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224375
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" group-title="REDE HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224203
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO POP HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224808
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="REDE HBO",HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224576
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="" group-title="REDE HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224865
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO SIGNATURE FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224803
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE H265" tvg-logo="" group-title="REDE HBO",HBO SIGNATURE H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224366
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="" group-title="REDE HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224196
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO SIGNATURE HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224804
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM FHD" tvg-logo="" group-title="REDE HBO",HBO XTREAM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224867
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD" tvg-logo="" group-title="REDE HBO",HBO XTREAM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224202
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM HD LEG" tvg-logo="" group-title="LEGENDADOS",HBO XTREAM HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224810
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="REDE HBO",HBO XTREME
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224584
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD LEG" tvg-logo="" group-title="LEGENDADOS",HBO XTREME FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224809
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME H265" tvg-logo="" group-title="REDE HBO",HBO XTREME H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224374
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="REDE HBO",HBO2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224577
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 H265" tvg-logo="" group-title="REDE HBO",HBO2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224367
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN 24HS" tvg-logo="" group-title="DESENHOS 24HRS",HE-MAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224699
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="" group-title="DOCUMENTARIOS",HGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224930
+#EXTINF:-1 tvg-id="" tvg-name="HGTV H265" tvg-logo="" group-title="DOCUMENTARIOS",HGTV H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224338
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="" group-title="DOCUMENTARIOS",HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224166
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DISNEY 24HS" tvg-logo="" group-title="DESENHOS 24HRS",HISTORIAS DISNEY 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224701
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224664
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224578
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FHD" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224875
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 HD" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224197
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224850
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY H265" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224368
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224198
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY2 H265" tvg-logo="" group-title="DOCUMENTARIOS",HISTORY2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224369
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",HOMEM ARANHA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224702
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",HOMEM DE FERRO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224703
+#EXTINF:-1 tvg-id="" tvg-name="HOMEMS DE PRETO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",HOMEMS DE PRETO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224704
+#EXTINF:-1 tvg-id="" tvg-name="HÉRCULES 24HS" tvg-logo="" group-title="SERIES 24HRS",HÉRCULES 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224700
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGACAO DISCOVERY" tvg-logo="" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224579
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY FHD" tvg-logo="" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224888
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY H265" tvg-logo="" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224370
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGAÇAO DISCOVERY HD" tvg-logo="" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224199
+#EXTINF:-1 tvg-id="" tvg-name="INCRÍVEL HULK 24HS" tvg-logo="" group-title="DESENHOS 24HRS",INCRÍVEL HULK 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224705
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CABUGI" tvg-logo="http://grupobrtv.com/logos/globohdsp.png" group-title="GLOBOS",GLOBO CABUGI
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224580
+#EXTINF:-1 tvg-id="" tvg-name="JACK-CHAN 24HS" tvg-logo="" group-title="DESENHOS 24HRS",JACK-CHAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224706
+#EXTINF:-1 tvg-id="" tvg-name="JASPION 24HS" tvg-logo="" group-title="SERIES 24HRS",JASPION 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224707
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O INCRÍVEL NINJA 24HS" tvg-logo="" group-title="SERIES 24HRS",JIRAYA O INCRÍVEL NINJA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224708
+#EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL 24HS" tvg-logo="" group-title="SERIES 24HRS",KENAN E KEL 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224709
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title="MUSICAS E VARIEDADES",LIFETIME
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224581
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",LIFETIME FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224870
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",LIFETIME H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224371
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224200
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTICA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",LIGA DA JUSTICA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224766
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL" tvg-logo="" group-title="ESPORTES ONDEMAND",LIGA FUTSAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224293
+#EXTINF:-1 tvg-id="" tvg-name="LOANDING FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",LOANDING FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224948
+#EXTINF:-1 tvg-id="" tvg-name="LOANDING HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",LOANDING HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224314
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",LOVE NATURE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224418
+#EXTINF:-1 tvg-id="" tvg-name="LULUZINHA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",LULUZINHA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224710
+#EXTINF:-1 tvg-id="" tvg-name="MEDABOTS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",MEDABOTS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224711
+#EXTINF:-1 tvg-id="" tvg-name="MEGAMAN 24HS" tvg-logo="" group-title="DESENHOS 24HRS",MEGAMAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224712
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="" group-title="FILMES E SERIES",MEGAPIX
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224586
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX FHD" tvg-logo="" group-title="FILMES E SERIES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224912
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX H265" tvg-logo="" group-title="FILMES E SERIES",MEGAPIX H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224376
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HD" tvg-logo="" group-title="FILMES E SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224204
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT 24HS" tvg-logo="" group-title="DESENHOS 24HRS",MORTAL KOMBAT 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224713
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="MOSAICO PREMIERE FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",MOSAICO PREMIERE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224885
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="MOSAICO PREMIERE HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",MOSAICO PREMIERE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224886
+#EXTINF:-1 tvg-id="" tvg-name="MR.BEN 24HS" tvg-logo="" group-title="SERIES 24HRS",MR.BEN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224714
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSICAS E VARIEDADES",MTV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224587
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",MTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224923
+#EXTINF:-1 tvg-id="" tvg-name="MTV H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",MTV H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224377
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224205
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="" group-title="MUSICAS E VARIEDADES",MULTISHOW
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224588
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",MULTISHOW FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224929
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",MULTISHOW H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224378
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224206
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="" group-title="MUSICAS E VARIEDADES",MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224589
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224590
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",NARUTO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224715
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN DUB 24HS" tvg-logo="" group-title="DESENHOS 24HRS",NARUTO SHIPPUDEN DUB 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224716
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224874
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO H265" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224379
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO HD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224207
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="INFANTIL",NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224591
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS FHD" tvg-logo="" group-title="INFANTIL",NATGEO KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224898
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS H265" tvg-logo="" group-title="INFANTIL",NATGEO KIDS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224381
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS HD" tvg-logo="" group-title="INFANTIL",NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224208
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224592
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224872
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD H265" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224380
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="" group-title="DOCUMENTARIOS",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224209
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224593
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="" group-title="MUSICAS E VARIEDADES",NHK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224594
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224595
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD" tvg-logo="" group-title="INFANTIL",NICK JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224900
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR H265" tvg-logo="" group-title="INFANTIL",NICK JR H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224383
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD" tvg-logo="" group-title="INFANTIL",NICK JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224211
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTIL",NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224596
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FHD" tvg-logo="" group-title="INFANTIL",NICKELODEON FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224899
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="" group-title="INFANTIL",NICKELODEON H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224382
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="INFANTIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224210
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224666
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224276
+#EXTINF:-1 tvg-id="" tvg-name="O FANTÁSTICO MUNDO DE BOBBY 24HS" tvg-logo="" group-title="DESENHOS 24HRS",O FANTÁSTICO MUNDO DE BOBBY 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224717
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24HS" tvg-logo="" group-title="DESENHOS 24HRS",O INSPETOR 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224718
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",O MASKARA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224719
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="MUSICAS E VARIEDADES",OFF
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224597
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",OFF FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224928
+#EXTINF:-1 tvg-id="" tvg-name="OFF H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",OFF H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224384
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224212
+#EXTINF:-1 tvg-id="" tvg-name="OS ANJINHOS - RUGRATS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",OS ANJINHOS - RUGRATS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224720
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",OS CAVALEIROS DO ZODIACO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224721
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24HS" tvg-logo="" group-title="DESENHOS 24HRS",OS FLINTSTONES 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224722
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",OS SIMPSONS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224723
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES 24HS" tvg-logo="" group-title="DESENHOS 24HRS",OS VINGADORES 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224724
+#EXTINF:-1 tvg-id="" tvg-name="PAPA-LÉGUAS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PAPA-LÉGUAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224725
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="FILMES E SERIES",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224598
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224914
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FILMES E SERIES",PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224213
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT H265" tvg-logo="" group-title="FILMES E SERIES",PARAMOUNT H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224385
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PEPPA PIG 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224726
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PERNALONGA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224727
+#EXTINF:-1 tvg-id="" tvg-name="PHINEAS E FERB 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PHINEAS E FERB 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224728
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PICA PAU 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224729
+#EXTINF:-1 tvg-id="" tvg-name="PINK-E-CEREBRO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",PINK-E-CEREBRO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224730
+#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="" group-title="INFANTIL",PLAY KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224670
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="MUSICAS E VARIEDADES",PLAY TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224600
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD" tvg-logo="" group-title="XXX: ADULTOS",PLAYBOY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224941
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV" tvg-logo="" group-title="XXX: ADULTOS",PLAYBOY TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224599
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="DESENHOS 24HRS",POKEMON 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224731
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="" group-title="MUSICAS E VARIEDADES",POLISHOP TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224601
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE O MARINHEIRO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",POPEYE O MARINHEIRO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224732
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224602
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224884
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224387
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224214
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224603
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224883
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 3 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224388
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224215
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224604
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224882
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 4 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224389
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224216
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224605
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224881
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 5 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224390
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224217
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224606
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224880
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224218
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224607
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224879
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224219
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 8" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224608
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 9" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE 9
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224609
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBE FHD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE CLUBE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224844
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224610
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE CLUBES H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224386
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224220
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE6 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE6 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224391
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE7 H265" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="PREMIERES",PREMIERE7 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224392
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="" group-title="MUSICAS E VARIEDADES",PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224611
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",RAI INTERNACIONAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224848
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",RAI INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224819
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",RAMBO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224733
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224614
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224458
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BELEM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224449
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BH HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224292
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224444
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CAMPINAS FHD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD CAMPINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224518
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224468
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIANIA H265" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD GOIANIA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224393
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIANIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD GOIANIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224221
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ITAPOAN BAHIA" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD ITAPOAN BAHIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224490
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224488
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224451
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="" group-title="NOTICIAS",RECORD NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224613
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD" tvg-logo="" group-title="NOTICIAS",RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224936
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224274
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224452
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224446
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SANTOS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SANTOS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224450
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SAO JOSE RIO PRETO HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SAO JOSE RIO PRETO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224447
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SC HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224470
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224448
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP H265" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SP H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224833
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224832
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV PARANA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD TV PARANA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224475
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD UBERLANDIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="RECORD",RECORD UBERLANDIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224460
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224616
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224277
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224617
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV ES" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224500
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV ES FHD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224498
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV ES HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224499
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224938
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV H265" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224394
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224222
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",REDE VIDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224618
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224620
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BAHIA HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224457
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CAMPINAS FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT CAMPINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224517
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224516
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT DF HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224453
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224463
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224445
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224464
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT MG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224482
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224471
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT PARANA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224474
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224487
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224484
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224454
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224455
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERRA DOURADA H265" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SERRA DOURADA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224413
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SERRA DOURADA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224242
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224939
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224456
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO 24HS" tvg-logo="" group-title="DESENHOS 24HRS",SCOOBY-DOO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224734
+#EXTINF:-1 tvg-id="" tvg-name="SEX HOT FHD" tvg-logo="" group-title="XXX: ADULTOS",SEX HOT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224940
+#EXTINF:-1 tvg-id="" tvg-name="SEX HOT HD" tvg-logo="" group-title="XXX: ADULTOS",SEX HOT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224307
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD" tvg-logo="" group-title="XXX: ADULTOS",SEX PRIVE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224942
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD" tvg-logo="" group-title="XXX: ADULTOS",SEX PRIVE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224308
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title="XXX: ADULTOS",SEXTREME
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224621
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="" group-title="XXX: ADULTOS",SEXY HOT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224622
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 24HS" tvg-logo="" group-title="SERIES 24HRS",SMALLVILLE 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224735
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",SMITHSONIAN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224275
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL 24HS" tvg-logo="" group-title="SERIES 24HRS",SOBRENATURAL 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224736
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="FILMES E SERIES",SONY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224535
+#EXTINF:-1 tvg-id="" tvg-name="SONY FHD" tvg-logo="" group-title="FILMES E SERIES",SONY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224913
+#EXTINF:-1 tvg-id="" tvg-name="SONY H265" tvg-logo="" group-title="FILMES E SERIES",SONY H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224332
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="FILMES E SERIES",SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224160
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK 24HS" tvg-logo="" group-title="DESENHOS 24HRS",SOUTH PARK 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224737
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="FILMES E SERIES",SPACE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224623
+#EXTINF:-1 tvg-id="" tvg-name="SPACE FHD" tvg-logo="" group-title="FILMES E SERIES",SPACE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224915
+#EXTINF:-1 tvg-id="" tvg-name="SPACE H265" tvg-logo="" group-title="FILMES E SERIES",SPACE H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224395
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="" group-title="FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224223
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="" group-title="ESPORTES",SPORTV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224624
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="" group-title="ESPORTES",SPORTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224625
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD" tvg-logo="" group-title="ESPORTES",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224846
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 H265" tvg-logo="" group-title="ESPORTES",SPORTV 2 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224396
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title="ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224224
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="" group-title="ESPORTES",SPORTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224626
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD" tvg-logo="" group-title="ESPORTES",SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224847
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 H265" tvg-logo="" group-title="ESPORTES",SPORTV 3 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224397
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="" group-title="ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224225
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="" group-title="ESPORTES",SPORTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224845
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV H265" tvg-logo="" group-title="ESPORTES",SPORTV H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224398
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="" group-title="ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224226
+#EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSE 24HS" tvg-logo="" group-title="DESENHOS 24HRS",STEVEN UNIVERSE 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224738
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224627
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224916
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL H265" tvg-logo="" group-title="FILMES E SERIES",STUDIO UNIVERSAL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224399
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224227
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CHOQUE 24HS" tvg-logo="" group-title="DESENHOS 24HRS",SUPER CHOQUE 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224769
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN 24HS" tvg-logo="" group-title="SERIES 24HRS",SUPERMAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224739
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="FILMES E SERIES",SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224628
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="FILMES E SERIES",SYFY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224926
+#EXTINF:-1 tvg-id="" tvg-name="SYFY H265" tvg-logo="" group-title="FILMES E SERIES",SYFY H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224400
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="FILMES E SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224228
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",TARTARUGAS NINJAS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224740
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="FILMES E SERIES",TBS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224629
+#EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="" group-title="FILMES E SERIES",TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224925
+#EXTINF:-1 tvg-id="" tvg-name="TBS H265" tvg-logo="" group-title="FILMES E SERIES",TBS H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224401
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224229
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="FILMES E SERIES",TCM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224630
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="" group-title="FILMES E SERIES",TCM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224946
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="FILMES E SERIES",TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224312
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224631
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224856
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="LEGENDADOS",TELECINE ACTION FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224791
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION H265" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224402
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224230
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="LEGENDADOS",TELECINE ACTION HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224792
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224632
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224860
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="LEGENDADOS",TELECINE CULT FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224797
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT H265" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224403
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224231
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD LEG" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="LEGENDADOS",TELECINE CULT HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224798
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224633
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224859
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="LEGENDADOS",TELECINE FUN FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224795
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN H265" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224404
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224232
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="LEGENDADOS",TELECINE FUN HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224796
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224634
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224858
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="LEGENDADOS",TELECINE PIPOCA FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224787
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA H265" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224405
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224233
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="LEGENDADOS",TELECINE PIPOCA HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224788
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224635
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224855
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="LEGENDADOS",TELECINE PREMIUM FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224789
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM H265" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224406
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224234
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="LEGENDADOS",TELECINE PREMIUM HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224790
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224636
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224857
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD LEG" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="LEGENDADOS",TELECINE TOUCH FHD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224793
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH H265" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224407
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224235
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="LEGENDADOS",TELECINE TOUCH HD LEG
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224794
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TERRA VIVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224637
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",THUNDERCATS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224741
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",TIMAO E PUMBA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224742
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="DOCUMENTARIOS",TLC
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224638
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="" group-title="DOCUMENTARIOS",TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224878
+#EXTINF:-1 tvg-id="" tvg-name="TLC H265" tvg-logo="" group-title="DOCUMENTARIOS",TLC H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224408
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="DOCUMENTARIOS",TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224236
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="FILMES E SERIES",TNT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224639
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="" group-title="FILMES E SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224854
+#EXTINF:-1 tvg-id="" tvg-name="TNT H265" tvg-logo="" group-title="FILMES E SERIES",TNT H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224409
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224237
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224640
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224918
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES H265" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224410
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224238
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224430
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224431
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224432
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224433
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224434
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS*" tvg-logo="" group-title="ESPORTES ONDEMAND",TNT SPORTS*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224674
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS 24HS" tvg-logo="" group-title="SERIES 24HRS",TODO MUNDO ODEIA O CHRIS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224743
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY 24HS" tvg-logo="" group-title="DESENHOS 24HRS",TOM & JERRY 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224744
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224641
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST FHD" tvg-logo="" group-title="INFANTIL",TOONCAST FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224903
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="" group-title="INFANTIL",TOONCAST HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224305
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",TRAVEL BOX BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224953
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",TRAVEL BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224317
+#EXTINF:-1 tvg-id="" tvg-name="TRES ESPIAS DEMAIS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",TRES ESPIAS DEMAIS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224745
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV" tvg-logo="" group-title="MUSICAS E VARIEDADES",TRU TV
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224642
+#EXTINF:-1 tvg-id="" tvg-name="TRUT TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",TRUT TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224947
+#EXTINF:-1 tvg-id="" tvg-name="TRUT TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",TRUT TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224313
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV APARECIDA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224644
+#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV BAHIA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224645
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224302
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CAMARA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224646
+#EXTINF:-1 tvg-id="" tvg-name="TV CAPIXABA HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CAPIXABA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224489
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CULTURA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224648
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA ES" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224506
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA ES FHD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224504
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA ES HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV CULTURA ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224505
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV DIARIO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224278
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV ESCOLA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224669
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224671
+#EXTINF:-1 tvg-id="" tvg-name="TV IDEAL" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV IDEAL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224667
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICA" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV JUSTICA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224649
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV PAMPA RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224513
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="INFANTIL",TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224651
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="" group-title="INFANTIL",TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224241
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV SENADO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224652
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224465
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES FHD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224466
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD" tvg-logo="" group-title="ABERTOS E RELIGIOSOS",TV VITORIA ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224467
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24HS" tvg-logo="" group-title="SERIES 24HRS",UM MALUCO NO PEDAÇO 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224746
+#EXTINF:-1 tvg-id="" tvg-name="UMA FAMÍLIA DA PESADA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",UMA FAMÍLIA DA PESADA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224747
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224665
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224917
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL H265" tvg-logo="" group-title="FILMES E SERIES",UNIVERSAL CHANNEL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224414
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224243
+#EXTINF:-1 tvg-id="" tvg-name="URSINHOS CARINHOS 24HS" tvg-logo="" group-title="DESENHOS 24HRS",URSINHOS CARINHOS 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224748
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HRS" tvg-logo="" group-title="SERIES 24HRS",VAI QUE COLA 24HRS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224767
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA 24HS" tvg-logo="" group-title="SERIES 24HRS",VAI QUE COLA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224768
+#EXTINF:-1 tvg-id="" tvg-name="VH1 H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",VH1 H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224415
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224244
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS" tvg-logo="" group-title="MUSICAS E VARIEDADES",VH1 MEGAHITS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224659
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="MUSICAS E VARIEDADES",VIVA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224660
+#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",VIVA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224934
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224245
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="" group-title="FILMES E SERIES",WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224661
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="FILMES E SERIES",WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224919
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL H265" tvg-logo="" group-title="FILMES E SERIES",WARNER CHANNEL H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224416
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="FILMES E SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224246
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="" group-title="MUSICAS E VARIEDADES",WOOHOO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224662
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO H265" tvg-logo="" group-title="MUSICAS E VARIEDADES",WOOHOO H265
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224417
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO TV FHD" tvg-logo="" group-title="MUSICAS E VARIEDADES",WOOHOO TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224944
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO TV HD" tvg-logo="" group-title="MUSICAS E VARIEDADES",WOOHOO TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224310
+#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="DESENHOS 24HRS",X-MAN 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224749
+#EXTINF:-1 tvg-id="" tvg-name="XENA 24HS" tvg-logo="" group-title="DESENHOS 24HRS",XENA 24HS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://brxp2p.xyz:8080/daniela/123456/224750
